@@ -6,3 +6,4 @@
   * cleaning.R - Data preparation process.
   * ui.R 	   - User-interface script
   * server.R   - Server script
+  * df.RData - Data set
