@@ -7,3 +7,4 @@
   * ui.R 	   - User-interface script
   * server.R   - Server script
   * df.RData - Data set
+  * gdpMap - Picture of App for slidify.
